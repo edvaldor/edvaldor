@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Professor de Tecnologia desde 2013 e desenvolvedor desde 2011, com foco em transformar ideias em sistemas que funcionam de verdade. Sou fundador da  
+Professor de Tecnologia desde 2013 e desenvolvedor desde 2004, com foco em transformar ideias em sistemas que funcionam de verdade. Sou fundador da  
 <a href='https://edronet.com/' target='blank'>Edronet</a>, onde atuo diretamente com **programação web**, evolução de **sites e portais**, integrações, manutenção contínua e soluções sob medida, especialmente para projetos de conteúdo e comunicação (como portais e sites jornalísticos).  
 
 Na educação, levo para a sala de aula a prática do mercado: **lógica**, **versionamento**, **banco de dados**, **desenvolvimento de aplicações** e construção de projetos com organização, clareza e resultado. Orgulhosamente **Empreteco** desde 2017 (EMPRETEC – parceria entre SEBRAE e ONU).
